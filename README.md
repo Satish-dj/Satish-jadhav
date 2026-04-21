@@ -96,11 +96,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Satish-jadhav&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-jadhav&layout=compact&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Satish-jadhav&theme=tokyonight)
 
 ## 🐍 Contribution Snake
 
