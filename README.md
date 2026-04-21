@@ -11,9 +11,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/satish-jadhav03-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sj0580834email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Satish-jadhav"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,8 +95,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satish-jadhav&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-jadhav&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Satish-jadhav/Satish-jadhav/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
