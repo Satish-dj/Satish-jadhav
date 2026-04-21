@@ -1,81 +1,127 @@
-# Satish-jadhav
-# 👋 Hi, I'm Satish Jadhav
+<!-- 🔥 Animated Header -->
 
-## 🚀 About Me
-I am a Data Analyst with 9 months internship experience, working on real-world business problems and data-driven solutions.  
-I have built projects like Churn Analysis, Sales Analytics, and Bank Transaction Analysis.  
+<h1 align="center">Hi 👋, I'm Satish Jadhav</h1>
 
-- 📊 Skilled in SQL, Power BI, Excel, Python  
-- 📈 Focused on KPI tracking & dashboard development  
-- ⚡ Passionate about data-driven decision making  
-
----
-
-## 🛠 Tech Stack
-- SQL | MySQL | Python  
-- Power BI | Tableau  
-- Excel | Pandas | NumPy  
-
----
-
-## 📂 Projects
-- 📊 Retail Sales Dashboard (Power BI)  
-- 🔍 Customer Churn Analysis  
-- 💳 Bank Transaction Analysis  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Data+into+Insights" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: (# 👋 Hi, I'm Satish Jadhav
 
-## 🚀 About Me
-I am a Data Analyst with 9 months internship experience, working on real-world business problems and data-driven solutions.  
-I have built projects like Churn Analysis, Sales Analytics, and Bank Transaction Analysis.  
-
-- 📊 Skilled in SQL, Power BI, Excel, Python  
-- 📈 Focused on KPI tracking & dashboard development  
-- ⚡ Passionate about data-driven decision making  
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-- SQL | MySQL | Python  
-- Power BI | Tableau  
-- Excel | Pandas | NumPy
 
-- ![My Skills](https://skillicons.dev/icons?i=python,mysql,aws,github)
-- ## 🛠 Tech Stack
+<table>
+<tr>
+<td>
 
-![My Skills](https://skillicons.dev/icons?i=python,mysql,github,aws)
+### 💻 Languages & Databases
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+
+</td>
+<td>
+
+### 📊 Data Visualization
+
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ Libraries
+
+<img src="https://img.icons8.com/color/48/pandas.png"/>
+<img src="https://img.icons8.com/color/48/numpy.png"/>
 <img src="https://img.icons8.com/color/48/jupyter.png"/>
 
----
+</td>
+<td>
 
-## 🏷 Skills
+### ☁️ Tools & Platforms
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
-![Python](https://img.shields.io/badge/Python-Analysis-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+<img src="https://skillicons.dev/icons?i=github,aws" />
 
-- ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Projects
-- 📊 Retail Sales Dashboard (Power BI)  
-- 🔍 Customer Churn Analysis  
-- 💳 Bank Transaction Analysis  
+## 🏷 Skills Snapshot
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-Advanced-blue"/>
+<img src="https://img.shields.io/badge/Excel-Advanced-green"/>
+<img src="https://img.shields.io/badge/PowerBI-Dashboarding-yellow"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-orange"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue"/>
+<img src="https://img.shields.io/badge/Pandas-Processing-purple"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical-lightgrey"/>
+<img src="https://img.shields.io/badge/GitHub-Version%20Control-black"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/satish-jadhav03)
-- Email: (sj0580834@gmail.com))
-- Email: (your email)
+## 📂 Featured Projects
+
+🔹 **Retail Sales Dashboard (Power BI)**
+→ Analyzed 10K+ records, built KPI dashboards for business insights
+
+🔹 **Customer Churn Analysis**
+→ Identified churn patterns using SQL & Python
+
+🔹 **Bank Transaction Analysis**
+→ Performed EDA & trend analysis on financial data
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⚡ What I Do
+
+✔ Data Cleaning & Transformation
+✔ Dashboard Development (Power BI / Tableau)
+✔ KPI Tracking & Business Insights
+✔ SQL Query Optimization
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue"/>
+</p>
+
+---
