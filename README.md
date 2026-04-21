@@ -94,12 +94,13 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satish-jadhav&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-jadhav&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📊 GitHub Stats
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight)
 
 ## 🐍 Contribution Snake
 
