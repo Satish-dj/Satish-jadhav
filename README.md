@@ -44,6 +44,25 @@ I have built projects like Churn Analysis, Sales Analytics, and Bank Transaction
 - Excel | Pandas | NumPy
 
 - ![My Skills](https://skillicons.dev/icons?i=python,mysql,aws,github)
+- ## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,mysql,github,aws)
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png"/>
+<img src="https://img.icons8.com/color/48/jupyter.png"/>
+
+---
+
+## 🏷 Skills
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Python](https://img.shields.io/badge/Python-Analysis-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 
 - ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
 
